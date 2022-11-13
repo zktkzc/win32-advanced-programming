@@ -1,0 +1,3 @@
+﻿  WinPaint.cpp
+D:\Project\C\C++\Win32\WinPaint\WinPaint.cpp(8,62): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  WinPaint.vcxproj -> D:\Project\C\C++\Win32\WinBase\x64\Debug\WinPaint.exe

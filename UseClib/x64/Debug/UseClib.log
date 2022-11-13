@@ -1,0 +1,4 @@
+﻿  UseClib.c
+D:\Project\C\C++\Win32\UseClib\UseClib.c(7,8): warning C4013: “Clib_add”未定义；假设外部返回 int
+D:\Project\C\C++\Win32\UseClib\UseClib.c(8,8): warning C4013: “Clib_sub”未定义；假设外部返回 int
+  UseClib.vcxproj -> D:\Project\C\C++\Win32\WinBase\x64\Debug\UseClib.exe

@@ -1,0 +1,4 @@
+﻿  WinText.cpp
+D:\Project\C\C++\Win32\WinText\WinText.cpp(15,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\C\C++\Win32\WinText\WinText.cpp(22,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  WinText.vcxproj -> D:\Project\C\C++\Win32\WinBase\x64\Debug\WinText.exe

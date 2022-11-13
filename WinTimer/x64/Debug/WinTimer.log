@@ -1,0 +1,7 @@
+﻿  WinTimer.cpp
+D:\Project\C\C++\Win32\WinTimer\WinTimer.cpp(9,20): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“WPARAM”
+D:\Project\C\C++\Win32\WinTimer\WinTimer.cpp(9,20): message : 请考虑在格式字符串中使用“%lld”
+D:\Project\C\C++\Win32\WinTimer\WinTimer.cpp(9,20): message : 请考虑在格式字符串中使用“%Id”
+D:\Project\C\C++\Win32\WinTimer\WinTimer.cpp(9,20): message : 请考虑在格式字符串中使用“%I64d”
+D:\Project\C\C++\Win32\WinTimer\WinTimer.cpp(10,60): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  WinTimer.vcxproj -> D:\Project\C\C++\Win32\WinBase\x64\Debug\WinTimer.exe
